@@ -2,10 +2,16 @@
 
 Manage errors through conditionals.
 
+Install with
+
+```sh
+npm i -D svelte-unsafe
+```
+
 Use `ok()` to create a successful result
 
 ```js
-import { ok } from 'sveltekit-unsafe'
+import { ok } from 'svelte-unsafe'
 /**
  * @returns {import("./types").Unsafe<string>}
  */
