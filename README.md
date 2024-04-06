@@ -1,4 +1,4 @@
-# SvelteKit Unsafe
+# Svelte Unsafe
 
 Manage errors through conditionals.
 
