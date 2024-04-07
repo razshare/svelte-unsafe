@@ -2,5 +2,5 @@ export {}
 
 /**
  * @template T
- * @typedef {{value:T,error:false|Error}} Unsafe
+ * @typedef {[T,false|Error]} Unsafe
  */

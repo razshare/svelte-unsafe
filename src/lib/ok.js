@@ -5,5 +5,5 @@
  */
 export function ok(value) {
   // @ts-ignore
-  return { value, error: false }
+  return [ value, false ]
 }
